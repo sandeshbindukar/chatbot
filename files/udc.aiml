@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+    <pattern>*</pattern>
+    <template>Sorry, I didn't understand you.</template>
+  </category>
+  <category>
+    <pattern>What is your name</pattern>
+    <template>I am a robot. I don't have a name.</template>
+  </category>
+  <category>
+    <pattern>hey</pattern>
+    <template>Hey there. What's up?</template>
+  </category>
+    <category>
+    <pattern>can you help me</pattern>
+    <template>Sure. How can I help you?</template>
+  </category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
